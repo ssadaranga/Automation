@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94256715-aa28-4f7e-bdc9-1ff5379b439f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cL7c6CFm73psChGtH9x9JQRE8v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\R &amp; D\Automation\src\main\resources\data" />
+      <recent name="D:\R &amp; D\Automation\src\main\resources\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94256715-aa28-4f7e-bdc9-1ff5379b439f" name="Default Changelist" comment="" />
+      <created>1590296095208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590296095208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="749" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1590300902472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="749" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1590300902472" />
+    <state x="0" y="278" key="FileChooserDialogImpl" timestamp="1590298062261">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="278" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590298062261" />
+    <state width="1323" height="293" key="GridCell.Tab.0.bottom" timestamp="1590305020576">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590305020576" />
+    <state width="1323" height="293" key="GridCell.Tab.0.center" timestamp="1590305020574">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590305020574" />
+    <state width="1323" height="293" key="GridCell.Tab.0.left" timestamp="1590305020572">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590305020572" />
+    <state width="1323" height="293" key="GridCell.Tab.0.right" timestamp="1590305020574">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590305020574" />
+    <state x="0" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1590301766953">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="416" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1590301766953" />
+    <state x="519" y="269" key="run.anything.popup" timestamp="1590298817373">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="519" y="269" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1590298817373" />
+    <state x="484" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590300687231">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="484" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590300687231" />
+  </component>
+</project>
